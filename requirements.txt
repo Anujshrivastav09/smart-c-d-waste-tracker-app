@@ -1,1 +1,5 @@
 geocoder
+streamlit
+pandas
+openpyxl
+plotly
