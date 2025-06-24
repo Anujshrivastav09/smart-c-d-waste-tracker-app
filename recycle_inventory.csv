@@ -1,0 +1,4 @@
+Item ID,Item Name,Category,Quantity (kg),Location,Condition,Image,Date Added,Admin Contact,Admin Email,Status
+ITM001,Used Concrete Blocks,🧱 Concrete,500,Depot A,✅ Good,uploaded_images/ITM001_blocks.jpg,2025-06-21,9876543210,admin1@dmrc.org,
+ITM002,Steel Rods Batch 1,⚙ Steel,300,Yard B,⚠ Fair,uploaded_images/ITM002_steel.jpg,2025-06-20,9123456780,admin2@dmrc.org,
+ITM003,Reclaimed Wooden Planks,🪵 Wood,200,Depot C,♻ Needs Processing,uploaded_images/ITM003_wood.jpg,2025-06-19,9988776655,admin3@dmrc.org,Sold

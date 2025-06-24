@@ -1,0 +1,6 @@
+Waste ID,Bidder,Email,Contact,Bid Price,Message,Timestamp,Status,Bid Rate (₹/kg)
+CNDW-20250614-DEL-6532,GreenEarth Pvt Ltd,contact@greenearth.in,9876543210,7500.0,,2025-06-20 14:05:00,Selected,
+CNDW-20250613-NOI-9012,Kumar Traders,kumartraders@gmail.com,9111122233,4700.0,,2025-06-20 14:10:00,Selected,
+CNDW-20250615-DEL-7890,Raj Builders,raj.builders@example.com,9123456789,14000.0,,2025-06-20 14:15:00,Selected,
+CNDW-20250620-DEL-8043,Apoorva,apoorva0815@gmail.com,8789015703,1000.0,,2025-06-20 17:45:59,Selected,
+CNDW-20250621-DEL-7213,Mitthi,appusmt0808@gmail.com,9540465247,998.0,,2025-06-21 12:48:30,Pending,2.0
