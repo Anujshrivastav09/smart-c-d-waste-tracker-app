@@ -1,0 +1,1 @@
+# smart-c-d-waste-tracker-app
